@@ -10,14 +10,11 @@ html, body {
 h1 {
     color: #919c7e;
     text-align: center;
-    width: 75vw;
     margin: auto;
     margin-top: 20px;
     font-family: 'Rubik', sans-serif;
     font-size: 40px;
-    border: 5px solid #6e5b36;
-    padding: 10px; 
-    border-radius: 20px   
+    padding: 10px;    
 }
 
 .container {
