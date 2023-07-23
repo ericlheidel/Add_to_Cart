@@ -76,8 +76,8 @@ ul li {
     box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.2)
 }
 
-ul li:hover {
+/* ul li:hover {
     background-color: #82624f;
     color: white;
     cursor: pointer;
-}
+} */
